@@ -93,4 +93,7 @@ pdf-checker/
 5.  Click **"Check Document with LLM"**.
 6.  The results will appear in a structured table below the form.
 
-## 🖼️ UI Screenshot Example
+## 🖼️ UI Screenshot
+
+<img width="1899" height="908" alt="Screenshot 2025-11-21 184658" src="https://github.com/user-attachments/assets/99ebc7ee-fa17-4572-ba17-6bb0052eb65b" />
+<img width="1902" height="905" alt="Screenshot 2025-11-21 184718" src="https://github.com/user-attachments/assets/6fd19bde-4dd0-4850-98fd-dfb02820b8e3" />
