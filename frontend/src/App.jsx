@@ -11,7 +11,8 @@ import {
   FileSearch,
 } from "lucide-react";
 
-const API_URL = "http://localhost:3000/api/check";
+// const API_URL = "http://localhost:3000/api/check";
+const API_URL = "https://pdf-rulecheck-ai.onrender.com/api/check";
 
 function App() {
   const [pdfFile, setPdfFile] = useState(null);
